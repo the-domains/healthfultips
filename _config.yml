@@ -1,14 +1,26 @@
-layout_spectrum: 0.4784098
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.3410991
 color:
   saturation: 0.3715697
-  brandStrength: 0.2406235
-  lightness: 0.4510863
+  brandStrength: 0.9396654
+  rhythmicContrast: 0.8056685
   brandColors:
     - '#256A93'
     - '#FFFFFF'
     - '#020202'
     - '#B5B4B4'
     - '#5C5C5C'
-  rhythmicContrast: 0.8056685
-typography_spectrum: 0.8712866
+  lightness: 0.4510863
+layout_spectrum: 0.5465949
 name: Healthfultips
