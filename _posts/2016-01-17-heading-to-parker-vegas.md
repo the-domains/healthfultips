@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-17T21:04:46.980Z'
-dateModified: '2016-01-17T21:04:33.949Z'
+datePublished: '2016-01-26T12:05:40.938Z'
+dateModified: '2016-01-18T04:01:41.660Z'
 title: 'Heading to Parker Vegas !'
 author: []
+sourcePath: _posts/2016-01-17-heading-to-parker-vegas.md
+published: true
 authors: []
 publisher:
-  favicon: null
   name: null
   domain: null
   url: null
-sourcePath: _posts/2016-01-17-heading-to-parker-vegas.md
-published: true
+  favicon: null
 url: heading-to-parker-vegas/index.html
 _type: Article
 
