@@ -1,14 +1,7 @@
-color:
-  saturation: 0.3715697
-  brandStrength: 0.9396654
-  rhythmicContrast: 0.8056685
-  brandColors:
-    - '#256A93'
-    - '#FFFFFF'
-    - '#020202'
-    - '#B5B4B4'
-    - '#5C5C5C'
-  lightness: 0.4510863
+name: Healthfultips
+favicon: null
+layout_spectrum: 0.5465949
+typography_spectrum: 0.3410991
 collections:
   - index:
       path: /
@@ -21,6 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.5465949
-typography_spectrum: 0.3410991
-name: Healthfultips
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#256A93'
+    - '#FFFFFF'
+    - '#020202'
+    - '#B5B4B4'
+    - '#5C5C5C'
+  brandStrength: 0.9396654
+  lightness: 0.4510863
+  saturation: 0.3715697
+  rhythmicContrast: 0.8056685
+purpose: []
